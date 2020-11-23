@@ -58,7 +58,10 @@
 		}
 	},
 	"tradeItem": {
-		"quantity": "25",
+		"quantity": {
+			"value": "25",
+			"packageTypeCode": "KGM"
+		 },
 		"harmonizeSystemCode": "4712345",
 		"description": "OCC 90/10",
 		"grossWeight": {
