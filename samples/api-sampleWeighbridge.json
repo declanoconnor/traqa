@@ -60,7 +60,7 @@
 	"tradeItem": {
 		"quantity": {
 			"value": "25",
-			"packageTypeCode": "KGM"
+			"packageTypeCode": "BL"
 		 },
 		"harmonizeSystemCode": "4712345",
 		"description": "OCC 90/10",
